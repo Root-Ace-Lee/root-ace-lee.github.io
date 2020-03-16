@@ -7,7 +7,7 @@ comments: false
 ---
 
 ## Hello Guys!
-I am Root. Root On Software is a tech blog to share my stories on software engineering.
+I am Root. Root On Software is a tech blog to share my stories on software engineering projects.
 
 ## Contacts
 | Phone Number   | 010-7779-7696                   |
