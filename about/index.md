@@ -15,6 +15,6 @@ Root On Software is a tech blog to share my stories on software engineering.
 * ...
 
 ## Contacts
-| Phone Number   | 010-7779-7696                   |
-| Email Address  | root.ace.lee@gmail.com          |
-| Github Address | https://github.com/Root-Ace-Lee |
+| Phone Number  | Email Address          | Github Address                  |
+| ------------- | ---------------------- | ------------------------------- |
+| 010-7779-7696 | root.ace.lee@gmail.com | https://github.com/Root-Ace-Lee |
