@@ -7,4 +7,4 @@ tags: []
 comments: false
 ---
 
-...
+One of my engineering rule is not to use unnecessary library and framework.
