@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
 
 # Theme
-remote_theme: THEME-NAME
+remote_theme: nielsenramon/chalk
 
 # Exclude from processing.
 # The following items will not be processed, by default.
