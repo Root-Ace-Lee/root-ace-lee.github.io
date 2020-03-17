@@ -2,7 +2,7 @@
 layout: post
 title: "Napkin Note 2020-03-17"
 date: 2020-03-17
-excerpt: "..."
+excerpt: "SPA 논문 8편을 수집해서 읽고 있다. 나는 웹 애플리케이션은 네이티브 애플리케이션과 닮..."
 tags: []
 comments: false
 ---
