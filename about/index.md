@@ -8,8 +8,3 @@ comments: false
 
 ## Hello Guys!
 Root On Software is a tech blog to share my stories on software engineering.
-
-## Current Projects
-* Single Page Application Library
-* ...
-* ...
